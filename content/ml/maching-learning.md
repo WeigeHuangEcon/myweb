@@ -16,7 +16,7 @@ image_preview = "bubbles.jpg"
 tags = ["ML"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://weige-huang.netlify.com/ml/mlmethods.pdf"
+external_link = "https://huang.netlify.com/ml/mlmethods.pdf"
 
 # Does the project detail page use math formatting?
 math = false
