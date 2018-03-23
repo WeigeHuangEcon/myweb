@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://weige-huang.netlify.com"
 
 # Title of your site
 title = "Academic"
@@ -15,7 +15,8 @@ copyright = "&copy; 2018"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","talks.md","hero.md",
+"tags.md","publications_selected.md","posts.md"]
 preserveTaxonomyNames = true
 paginate = 10
 
@@ -50,20 +51,20 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Weige Huang"
+  role = "PhD Candidate in Economics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "Temple University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  avatar = "weige.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "weige.huang@temple.edu"
+  address = "Ritter Annex 847, 1301 Cecil B. Moore Ave, Philadelphia, PA 19122-6091 USA"
+  office_hours = "Monday 13:00 to 14:00 or email for appointment"
+  phone = "(484) 260-4893"
+  skype = "Weige Huang"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -222,17 +223,18 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "https://twitter.com/huangweige?lang=en"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = ""
+    #link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "https://github.com/WeigeHuangEcon"
 
 
 # Navigation Links
@@ -249,33 +251,45 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "CV"
+  url = "https://github.com/WeigeHuangEcon/my_website/blob/master/Weige_Huang_CV.pdf"
   weight = 2
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Research"
+  url = "#publications"
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
+  name = "Code"
   url = "#projects"
   weight = 4
+
+
+[[menu.main]]
+  name = "ML"
+  url = "#machinelearning"
+  weight = 5
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 6
+  
+[[menu.main]]
+  name = "Other"
+  url = "#other"
+  weight = 7
 
+  
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 8
 
 # Taxonomies.
 [taxonomies]
-  tag = "tags"
+ tag = "tags"
   category = "categories"
   publication_type = "publication_types"
 
