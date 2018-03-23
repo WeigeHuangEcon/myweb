@@ -4,16 +4,16 @@ widget = "projects"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Code"
+title = "Machine Learning"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 52
 
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "project"
+folder = "ml"
 
 # View.
 # Customize how projects are displayed.
@@ -29,18 +29,18 @@ filter_default = 0
 # Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-name = "All"
-tag = "*"
-
-
-[[filter]]
-name = "TempleMetrics"
-tag = ".TempleMetrics"
-
+  name = "All"
+  tag = "*"
+  
 
 [[filter]]
-name = "Other"
-tag = ".demo"
+  name = "ML"
+  tag = ".ML"
+ 
+
+[[filter]]
+  name = "Other"
+  tag = ".demo"
 
 +++
 

@@ -18,12 +18,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet.</description>
+      <description>Biography I am a PhD Candidate in Economics at Temple University. My research interests include Microeconometrics, Finance and Machine Learning.</description>
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Research</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -32,11 +31,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
     </item>
     
     <item>
-      <title>Projects</title>
+      <title>Code</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>/home/machinelearning/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/machinelearning/</guid>
       <description></description>
     </item>
     
@@ -46,9 +54,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-I am a teaching instructor for the following courses at University X:
- CS101: An intro to computer science CS102: An intro to computer science CS103: An intro to computer science CS104: An intro to computer science CS105: An intro to computer science CS106: An intro to computer science CS107: An intro to computer science  </description>
+      <description>Instructor:
+ Econ 1102: Microeconomic Principles Econ 3502: Intermediate Macroeconomic Analysis  Teaching Assistant:
+ Intermediate Microeconomic Analysis, Prof. Willian Stull, Fall 2016, Spring/Fall 2017, Spring 2018 International Monetary Economics/ International Trade, Prof. Mohsen Fardmanesh, Fall 2015, Spring/Fall 2016 Behavioral Economics/ Economics for Life/ Macroeconomic Principles, Prof. Donald T. Wargo, Fall 2014, Spring/Fall 2015, Fall 2016, Spring 2017 Macroeconomic Principles, Prof. Dimitrios I. Diamantaras, Fall 2014 Microeconomic Principles/ Macroeconomic Principles, Prof.</description>
     </item>
     
     <item>
@@ -58,6 +66,16 @@ I am a teaching instructor for the following courses at University X:
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>/home/other/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/other/</guid>
+      <description>Research Assistant:
+ Supervisor: Prof. Brantly Callaway, Fall 2017, Spring 2018  </description>
     </item>
     
   </channel>
