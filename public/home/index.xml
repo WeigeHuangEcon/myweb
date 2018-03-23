@@ -60,15 +60,6 @@
     </item>
     
     <item>
-      <title>Contact</title>
-      <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/contact/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Other</title>
       <link>/home/other/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -76,6 +67,15 @@
       <guid>/home/other/</guid>
       <description>Research Assistant:
  Supervisor: Prof. Brantly Callaway, Fall 2017, Spring 2018  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
     </item>
     
   </channel>
