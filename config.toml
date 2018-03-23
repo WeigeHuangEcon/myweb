@@ -252,7 +252,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "CV"
-  url = "https://github.com/WeigeHuangEcon/my_website/blob/master/Weige_Huang_CV.pdf"
+  url = "https://huang.netlify.com/cv/Weige_Huang_CV.pdf"
   weight = 2
 
 [[menu.main]]
