@@ -1,6 +1,6 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
-date = 2015-09-01T00:00:00
+title = "Decomposing Differences in Portfolio Returns Between North America and Europe"
+date = 2018-09-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -22,7 +22,7 @@ publication_types = ["3"]
 #publication_short = "In *SITIS*"
 
 # Abstract and optional shortened version.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "The paper decomposes differences in mean and a series of quantiles of portfolio returns between North America and Europe into Fama and French's five factors. We show that the differences in risk premia on factors, especially on market and size factors, account for most of the differences and the differences in factor risks seem to play an insignificant role in aggregate.We also show that the roles that the risk premia on market and size factors play are various at different levels of portfolio returns, implying the market and size factor risk premia are various at different levels of portfolio returns. Also, we find that the risks on some factors seem to be various at different levels of portfolio returns. These findings shed further light on empirical asset pricing."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/JMP.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
