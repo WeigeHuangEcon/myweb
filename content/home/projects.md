@@ -2,9 +2,9 @@
 # Projects widget.
 widget = "projects"
 active = true
-date = "2016-04-20T00:00:00"
+date = 2016-04-20T00:00:00
 
-title = "Code"
+title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -18,7 +18,7 @@ folder = "project"
 # View.
 # Customize how projects are displayed.
 # Legend: 0 = list, 1 = cards.
-view = 0
+view = 1
 
 # Filter toolbar.
 
@@ -26,21 +26,20 @@ view = 0
 filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
-# Use "*" tag to show all projects or an existing tag prefixed with "." to filter by specific tag.
+# To show all items, set `tag` to "*".
+# To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
 [[filter]]
-name = "All"
-tag = "*"
-
-
-[[filter]]
-name = "TempleMetrics"
-tag = ".TempleMetrics"
-
+  name = "All"
+  tag = "*"
 
 [[filter]]
-name = "Other"
-tag = ".demo"
+  name = "Deep Learning"
+  tag = "Deep Learning"
+
+[[filter]]
+  name = "Other"
+  tag = "Demo"
 
 +++
 

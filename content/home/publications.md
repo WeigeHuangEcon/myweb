@@ -3,9 +3,10 @@
 # This widget displays recent publications from `content/publication/`.
 widget = "publications"
 active = true
-date = 2016-04-20
+date = 2016-04-20T00:00:00
 
-title = "Research"
+#title = "Recent Publications"
+title = "Working Papers"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -33,5 +34,6 @@ list_format = 3
 publication_type = "-1"
 
 # Exclude publications that are shown in the Selected Publications widget?
-exclude_selected = true
+exclude_selected = false
 +++
+

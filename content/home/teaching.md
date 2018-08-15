@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = "2016-04-20T00:00:00"
+date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -14,7 +14,6 @@ subtitle = ""
 weight = 60
 
 +++
-
 
 `Instructor:`
 
@@ -29,4 +28,3 @@ weight = 60
 - Macroeconomic Principles, Prof. Dimitrios I. Diamantaras, Fall 2014
 - Microeconomic Principles/ Macroeconomic Principles, Prof. John Dileonardo, Fall 2015, Spring 2016
 - Microeconomic Principles, Prof. Gary W. Bowman Fall 2015
-
