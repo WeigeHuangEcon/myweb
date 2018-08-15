@@ -20,6 +20,7 @@ publication_types = ["3"]
 # Publication name and optional abbreviated version.
 #publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
 #publication_short = "In *SITIS*"
+publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
 abstract = "The paper decomposes differences in mean and a series of quantiles of portfolio returns between North America and Europe into Fama and French's five factors. We show that the differences in risk premia on factors, especially on market and size factors, account for most of the differences and the differences in factor risks seem to play an insignificant role in aggregate.We also show that the roles that the risk premia on market and size factors play are various at different levels of portfolio returns, implying the market and size factor risk premia are various at different levels of portfolio returns. Also, we find that the risks on some factors seem to be various at different levels of portfolio returns. These findings shed further light on empirical asset pricing."

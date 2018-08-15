@@ -6,7 +6,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 #title = "Recent Publications"
-title = "Working Papers"
+title = "Selected Working Papers"
 subtitle = ""
 
 # Order that this section will appear in.
