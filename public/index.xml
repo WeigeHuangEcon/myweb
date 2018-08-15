@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Bayesian Distribution Regression</title>
+      <link>/publication/bdr/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bdr/</guid>
+      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
@@ -31,21 +41,11 @@
     </item>
     
     <item>
-      <title>Intergenerational Income Mobility: Counterfactual Distributions with a Continuous Treatment</title>
+      <title>Distributional Effects of a Continuous Treatment with an Application on Intergenerational Mobility</title>
       <link>/publication/iim/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/publication/iim/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Distribution Regression</title>
-      <link>/publication/bdr/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bdr/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>

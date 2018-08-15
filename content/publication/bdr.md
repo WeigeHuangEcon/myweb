@@ -1,6 +1,6 @@
 +++
 title = "Bayesian Distribution Regression"
-date = "2017-10-01"
+date = "2018-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weige Huang","Emmanuel S. Tsyawo"]
@@ -21,7 +21,7 @@ publication = ""
 publication_short = "Working Paper"
 
 # Abstract and optional shortened version.
-abstract = "This paper introduces a Bayesian version of distribution regression. With this method, we are able to estimate the distribution of the entire distribution of the outcome variable and do inference without recourse to the bootstrap. Based on the distribution, the quantiles, variance and among other distributional statistics can be estimated and inference about these distribution statistics can also be made."
+abstract = "This paper introduces a Bayesian version of distribution regression.Different from using standard distribution regression where one is able to obtain only the entire distribution, we are able to estimate the distribution for the entire distribution of the outcome variable using Bayesian distribution regression. More specifically, our method helps estimate the distribution for any point on the distribution of the outcome variable but not limited to only a point as using standard distribution regression, which makes straightforward inference on the points on the distribution. It is also straightforward to conduct inference on any distributional statistics like quantiles and variance of interest. We develop asymptotic theorems for our estimators. Combined with counterfactual analysis, we are able to compute counterfactual distributional effects and conduct inferences on these effects. Our application of the method to the Fama-French five-factor model demonstrates substantial heterogeneity in the impact of the market return on the distribution of the portfolio return."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -36,7 +36,7 @@ selected = false
 projects = ""
 
 # Links (optional).
-url_pdf = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3048658"
+url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/bdr4.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
