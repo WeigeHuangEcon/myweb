@@ -36,7 +36,7 @@ selected = false
 projects = ""
 
 # Links (optional).
-url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/bdr4.pdf"
+url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/bdr.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
