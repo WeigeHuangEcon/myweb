@@ -36,7 +36,7 @@ selected = false
 projects = ""
 
 # Links (optional).
-url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/cfa2.pdf"
+url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/cfa.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
