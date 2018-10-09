@@ -1,6 +1,6 @@
 +++
 title = "Decomposing Differences in Portfolio Returns Between North America and Europe"
-date = 2018-09-01T00:00:00
+date = "2018-10-08"
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -23,7 +23,7 @@ publication_types = ["3"]
 publication_short = "Job Market Paper"
 
 # Abstract and optional shortened version.
-abstract = "The paper decomposes differences in mean and a series of quantiles of portfolio returns between North America and Europe into Fama and French's five factors. We show that the differences in risk premia on factors, especially on market and size factors, account for most of the differences and the differences in factor risks seem to play an insignificant role in aggregate.We also show that the roles that the risk premia on market and size factors play are various at different levels of portfolio returns, implying the market and size factor risk premia are various at different levels of portfolio returns. Also, we find that the risks on some factors seem to be various at different levels of portfolio returns. These findings shed further light on empirical asset pricing."
+abstract = "The paper decomposes differences in mean and a series of quantiles of portfolio returns between North America and Europe into Fama and French's five factors. We show that the differences in risk premia on factors, especially on market and size factors, account for most of the differences and the differences in factor risks seem to play an insignificant role in aggregate. We also show that the roles that the risk premia on market and size factors play vary at different levels of portfolio returns, implying the market and size factor risk premia vary at different levels of portfolio returns. Also, we find that the risks on some factors seem to vary at different levels of portfolio returns. These findings shed further light on empirical asset pricing."
 abstract_short = ""
 
 # Featured image thumbnail (optional)

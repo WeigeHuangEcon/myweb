@@ -1,6 +1,6 @@
 +++
 title = "Semiparametric Estimation of Oaxaca-Blinder Decompositions with Continuous Groups"
-date = "2018-09-27"
+date = "2018-10-04"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Brantly Callaway","Weige Huang"]
