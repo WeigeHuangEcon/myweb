@@ -35,7 +35,7 @@ year = 2009
 
 # Biography
 
-I am a PhD Candidate in Economics at Temple University. My research interests include Microeconometrics, Finance and Machine Learning.
+I am a Ph.D. Candidate in Economics at Temple University. My research interests include Microeconometrics, Finance and Machine Learning.
 
 
 
