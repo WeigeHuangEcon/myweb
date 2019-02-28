@@ -304,7 +304,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "files/Huang_CV.pdf"
+  url = "files/CV.pdf"
   weight = 2 
 
 # Link to a PDF of your resume/CV from the menu.

@@ -35,7 +35,8 @@ year = 2009
 
 # Biography
 
-I am a Ph.D. Candidate in Economics at Temple University. My research interests include Microeconometrics, Finance and Machine Learning.
+I am a Ph.D. Candidate in Economics at Temple University. I will be joining Wenlan School of Business, Zhongnan University of Economics and Law as Assistant Professor in Fall 2019.\\
+My research interests include Microeconometrics, Finance and Machine Learning.
 
 
 
