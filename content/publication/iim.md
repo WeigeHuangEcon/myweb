@@ -18,7 +18,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "Working Paper (Submitted)"
+publication_short = "(Revise and resubmit at Oxford Bulletin of Economics and Statistics)"
 
 # Abstract and optional shortened version.
 abstract = "This paper considers the effect of a continuous treatment on the entire distribution of outcomes after adjusting for differences in the distribution of covariates across different levels of the treatment. Our methodology encompasses dose response functions, counterfactual distributions, and ``distributional policy effects'' depending on the assumptions invoked by the researcher. We propose a three-step estimator that consists of (i) estimating the distribution of the outcome conditional on the treatment and other covariates using quantile regression; (ii) for each value of the treatment, averaging over a counterfactual distribution of the covariates holding the treatment fixed; (iii) manipulating the counterfactual distribution into a parameter of interest.   We show that our estimators converge uniformly to Gaussian processes and that the empirical bootstrap can be used to conduct uniformly valid inference across a range of values of the treatment.  We use our method to study intergenerational income mobility where we consider distributional effects of parents' income on child's income such as (i) the fraction of children with income below the poverty line, (ii) the variance of child's income, and (iii) the inter-quantile range of child's income -- all as a function of parents' income."
