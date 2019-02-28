@@ -1,6 +1,6 @@
 +++
 title = "Distributional Effects of a Continuous Treatment with an Application on Intergenerational Mobility"
-date = "2018-10-07"
+date = "2019-02-27"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Brantly Callaway","Weige Huang"]

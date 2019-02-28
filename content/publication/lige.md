@@ -1,6 +1,6 @@
 +++
 title = "Local Intergenerational Elasticities"
-date = "2019-02-06"
+date = "2019-02-28"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Brantly Callaway","Weige Huang"]
