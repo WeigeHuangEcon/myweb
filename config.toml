@@ -77,8 +77,8 @@ enableGitInfo = false
   email = "weige.huang@temple.edu"
   address = "Ritter Annex 825, 1301 Cecil B. Moore Ave, Philadelphia, PA 19122-6091 USA"
   office_hours = "Monday and Wedesday 12:00-13:30 or email for appointment"
-  phone = "(484) 260-4893"
-  skype = "Weige Huang"
+ # phone = "(484) 260-4893"
+ # skype = "Weige Huang"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
