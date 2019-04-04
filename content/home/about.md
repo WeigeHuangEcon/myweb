@@ -17,7 +17,7 @@ interests = [
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-course = "PhD in Economics (Expected)"
+course = "PhD in Economics"
 institution = "Temple University"
 year = 2019
 
@@ -35,7 +35,7 @@ year = 2009
 
 # Biography
 
-I am a Ph.D. Candidate in Economics at Temple University. I will be joining Wenlan School of Business, Zhongnan University of Economics and Law as Assistant Professor in Fall 2019.\\
+I complete my Ph.D. in Economics at the Temple University. I will be joining the Wenlan School of Business, Zhongnan University of Economics and Law as Assistant Professor in Fall 2019.\\
 My research interests include Microeconometrics, Finance and Machine Learning.
 
 
