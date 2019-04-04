@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/0/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Bayesian Distribution Regression</title>
+      <link>/publication/bdr/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bdr/</guid>
+      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
+    </item>
     
     <item>
       <title>Local Intergenerational Elasticities</title>
@@ -27,15 +36,6 @@
       <pubDate>Wed, 27 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>/publication/iim/</guid>
-      <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
-    </item>
-    
-    <item>
-      <title>Bayesian Distribution Regression</title>
-      <link>/publication/bdr/</link>
-      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bdr/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

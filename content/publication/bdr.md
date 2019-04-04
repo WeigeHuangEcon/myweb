@@ -1,6 +1,6 @@
 +++
 title = "Bayesian Distribution Regression"
-date = "2018-10-05"
+date = "2019-03-05"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Weige Huang","Emmanuel S. Tsyawo"]
