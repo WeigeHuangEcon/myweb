@@ -77,8 +77,8 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "huang.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "weige.huang@temple.edu /or/ darren1988@163.com"
-  address = "Ritter Annex 825, 1301 Cecil B. Moore Ave, Philadelphia, PA 19122-6091 USA"
+  email = "darren1988@163.com"
+ # address = "Ritter Annex 825, 1301 Cecil B. Moore Ave, Philadelphia, PA 19122-6091 USA"
  # office_hours = "Monday and Wedesday 12:00-13:30 or email for appointment"
  # phone = "(484) 260-4893"
  # skype = "Weige Huang"
