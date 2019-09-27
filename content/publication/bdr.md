@@ -18,7 +18,7 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication = ""
-publication_short = "(Under review at the Journal of Econometrics)"
+publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = "This paper introduces a Bayesian version of distribution regression that enables inference on estimated distributions, quantiles, distributional effects,  among other functionals of interest. Our estimators come in three categories: the non-asymptotic, semi-asymptotic, and asymptotic. To conduct simultaneous inference on a function of any estimator, we introduce asymmetric and symmetric Bayesian confidence bands. Inference on point estimates is conducted via posterior intervals. The Bayesian asymptotic theory we develop extends the foregoing to gains in computational time and tractability of posterior distributions. Monte Carlo simulations conducted illustrate good performance of our estimators. We apply our estimators to evaluate the impact of institutional ownership on firm innovation."
