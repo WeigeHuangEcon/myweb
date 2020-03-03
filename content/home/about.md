@@ -18,17 +18,17 @@ interests = [
 # List your qualifications (such as academic degrees).
 [[education.courses]]
 course = "PhD in Economics"
-institution = "Temple University"
+institution = "Temple University in USA"
 year = 2019
 
 [[education.courses]]
 course = "MS in Finance"
-institution = "Shenzhen University"
+institution = "Shenzhen University in China"
 year = 2013
 
 [[education.courses]]
 course = "BS in Medical Tests"
-institution = "Southern Medical University"
+institution = "Southern Medical University in China"
 year = 2009
 
 +++
