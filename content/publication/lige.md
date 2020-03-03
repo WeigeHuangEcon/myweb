@@ -36,7 +36,7 @@ selected = false
 projects = ""
 
 # Links (optional).
-url_pdf = "https://github.com/WeigeHuangEcon/myweb/blob/master/static/files/lige.pdf"
+url_pdf = "http://www.accessecon.com/Pubs/EB/2019/Volume39/EB-19-V39-I2-P88.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

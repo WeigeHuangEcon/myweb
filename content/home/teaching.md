@@ -17,6 +17,7 @@ weight = 60
 
 `Instructor:`
 
+- Financial Econometrics
 - Econ 1101: Macroeconomic Principles
 - Econ 1102: Microeconomic Principles
 - Econ 3502: Intermediate Macroeconomic Analysis
