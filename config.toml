@@ -23,7 +23,7 @@ enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","getting-started.md","_index.md","example-external-project.md","deep-learning.md",
 "posts.md","projects.md","publications_selected.md","search.md","skills.md","tags.md",
-"talks_selected.md","talks.md"]
+"talks_selected.md","talks.md","jmp.md","bdr.md","seobd.md"]
 preserveTaxonomyNames = true
 paginate = 10
 
