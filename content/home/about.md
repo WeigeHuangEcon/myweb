@@ -35,7 +35,8 @@ year = 2009
 
 # Biography
 
-I complete my Ph.D. in Economics at the Temple University. I will be joining the Wenlan School of Business, Zhongnan University of Economics and Law as Assistant Professor in Fall 2019.\\
+
+I am an Assistant Professor of Economics and Finance at the Wenlan School of Business, Zhongnan University of Economics and Law.\\
 My research interests include Microeconometrics, Finance and Machine Learning.
 
 
